@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{{ title }}</title>
+  <style>
+    th.left,
+    td.left {
+      text-align: left;
+    }
+    th.right,
+    td.right {
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">{{ content | trim | safe }}</div>
+  <footer>
+    <hr/>
+    <p>Data via <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports">github.com/CSSEGISandData/COVID-19 (csse_covid_19_data/csse_covid_19_daily_reports)</a>.</p>
+  </footer>
+
+</body>
+</html>

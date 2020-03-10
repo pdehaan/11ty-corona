@@ -1,0 +1,34 @@
+{
+  "date": "2020-02-16",
+  "stats": {
+    "Confirmed": 7,
+    "Deaths": 0,
+    "Recovered": 1
+  },
+  "data": [
+    {
+      "Province/State": "British Columbia",
+      "Country/Region": "Canada",
+      "Last Update": "2020-02-07T05:43:03",
+      "Confirmed": 4,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    {
+      "Province/State": "Toronto, ON",
+      "Country/Region": "Canada",
+      "Last Update": "2020-02-04T00:13:06",
+      "Confirmed": 2,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    {
+      "Province/State": "London, ON",
+      "Country/Region": "Canada",
+      "Last Update": "2020-02-12T18:53:03",
+      "Confirmed": 1,
+      "Deaths": 0,
+      "Recovered": 1
+    }
+  ]
+}

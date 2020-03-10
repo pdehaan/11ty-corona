@@ -1,0 +1,6 @@
+{
+  "layout": "layouts/daily.liquid",
+  "tags": [
+    "results"
+  ]
+}

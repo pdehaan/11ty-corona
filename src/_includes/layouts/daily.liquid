@@ -1,0 +1,44 @@
+---
+layout: layouts/base.liquid
+---
+
+{% assign previousPost = collections.results | getPreviousCollectionItem: page %}
+{% assign nextPost = collections.results | getNextCollectionItem: page %}
+
+<nav>
+{% if previousPost %}<a href="{{ previousPost.url }}">&laquo; {{ previousPost.data.date }}</a> &middot;{% endif %}
+<a href="/">Home</a>
+{% if nextPost %}&middot; <a href="{{ nextPost.url }}">{{ nextPost.data.date }} &raquo;</a>{% endif %}
+</nav>
+
+<main class="content">
+  <header>
+    <h1>{{ date }}</h1>
+  </header>
+  <article>
+    <table width="100%">
+    <thead>
+    <tr>
+      <th class="left">Province/State</th>
+      <th class="left">Country/Region</th>
+      <th class="right">Confirmed ({{ stats.Confirmed }})</th>
+      <th class="right">Deaths ({{ stats.Deaths }})</th>
+      <th class="right">Recovered ({{ stats.Recovered }})</th>
+      <th class="right">Last Update</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for item in data %}
+    <tr>
+      <td>{{ item["Province/State"] }}</td>
+      <td>{{ item["Country/Region"] }}</td>
+      <td class="right">{{ item.Confirmed }}</td>
+      <td class="right">{{ item.Deaths }}</td>
+      <td class="right">{{ item.Recovered }}</td>
+      <td class="right"><small>{{ item["Last Update"] | localeDateString }}</small></td>
+    </tr>
+    {% endfor %}
+    </tbody>
+    </table>
+  </article>
+</main>

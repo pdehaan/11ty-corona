@@ -1,0 +1,26 @@
+{
+  "date": "2020-01-28",
+  "stats": {
+    "Confirmed": 2,
+    "Deaths": 0,
+    "Recovered": 0
+  },
+  "data": [
+    {
+      "Province/State": "Ontario",
+      "Country/Region": "Canada",
+      "Last Update": "1/28/20 23:00",
+      "Confirmed": 1,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    {
+      "Province/State": "British Columbia",
+      "Country/Region": "Canada",
+      "Last Update": "1/28/20 23:00",
+      "Confirmed": 1,
+      "Deaths": 0,
+      "Recovered": 0
+    }
+  ]
+}

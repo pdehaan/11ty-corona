@@ -1,0 +1,40 @@
+{
+  "name": "11ty-corona",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/11ty-corona/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0-beta.1",
+    "csvtojson": "^2.0.10",
+    "del": "^5.1.0",
+    "fast-glob": "^3.2.2",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.2"
+  },
+  "homepage": "https://github.com/pdehaan/11ty-corona#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-corona.git"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "deploy": "now www --prod",
+    "format:output": "npx prettier 'www/**/*.html' --write",
+    "postseed": "rimraf _datacache",
+    "prod": "run-s seed build format:output deploy",
+    "seed": "run-s seed:data seed:pages",
+    "seed:data": "npx degit CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports _datacache --force",
+    "seed:pages": "node scripts/seed-pages",
+    "serve": "eleventy --serve",
+    "stage": "now www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

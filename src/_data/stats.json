@@ -1,0 +1,1620 @@
+[
+  {
+    "date": "2020-01-26",
+    "stats": {
+      "Confirmed": 1,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/26/20 16:00",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-01-27",
+    "stats": {
+      "Confirmed": 1,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/27/20 23:59",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-01-28",
+    "stats": {
+      "Confirmed": 2,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "1/28/20 23:00",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-01-29",
+    "stats": {
+      "Confirmed": 2,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "1/29/20 19:30",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-01-30",
+    "stats": {
+      "Confirmed": 3,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "1/30/20 16:00",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-01-31",
+    "stats": {
+      "Confirmed": 3,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "1/31/2020 23:59",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-01",
+    "stats": {
+      "Confirmed": 4,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2/1/2020 18:12",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2/1/2020 18:12",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-02",
+    "stats": {
+      "Confirmed": 4,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-01T18:12:49",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-01T18:12:49",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-03",
+    "stats": {
+      "Confirmed": 4,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-01T18:12:49",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-01T18:12:49",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-04",
+    "stats": {
+      "Confirmed": 4,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-01T18:12:49",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:03:11",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-05",
+    "stats": {
+      "Confirmed": 5,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-05T17:33:03",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:03:11",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-06",
+    "stats": {
+      "Confirmed": 5,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-05T17:33:03",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:03:11",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-07",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:03:11",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-08",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:03:11",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-09",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:03:11",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-10",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:03:11",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-11",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 0
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:03:11",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      }
+    ]
+  },
+  {
+    "date": "2020-02-12",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-13",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-14",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-15",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-16",
+    "stats": {
+      "Confirmed": 7,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-07T05:43:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-17",
+    "stats": {
+      "Confirmed": 8,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-17T08:03:07",
+        "Confirmed": 5,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-18",
+    "stats": {
+      "Confirmed": 8,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-17T08:03:07",
+        "Confirmed": 5,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-19",
+    "stats": {
+      "Confirmed": 8,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-17T08:03:07",
+        "Confirmed": 5,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-20",
+    "stats": {
+      "Confirmed": 8,
+      "Deaths": 0,
+      "Recovered": 1
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-17T08:03:07",
+        "Confirmed": 5,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-04T00:13:06",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-21",
+    "stats": {
+      "Confirmed": 9,
+      "Deaths": 0,
+      "Recovered": 3
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-21T05:23:04",
+        "Confirmed": 6,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-21T05:23:04",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-22",
+    "stats": {
+      "Confirmed": 9,
+      "Deaths": 0,
+      "Recovered": 3
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-21T05:23:04",
+        "Confirmed": 6,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-21T05:23:04",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-23",
+    "stats": {
+      "Confirmed": 9,
+      "Deaths": 0,
+      "Recovered": 3
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-21T05:23:04",
+        "Confirmed": 6,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-21T05:23:04",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-24",
+    "stats": {
+      "Confirmed": 10,
+      "Deaths": 0,
+      "Recovered": 3
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-21T05:23:04",
+        "Confirmed": 6,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-24T14:43:03",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-25",
+    "stats": {
+      "Confirmed": 11,
+      "Deaths": 0,
+      "Recovered": 3
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-25T02:23:05",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-24T14:43:03",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-26",
+    "stats": {
+      "Confirmed": 11,
+      "Deaths": 0,
+      "Recovered": 3
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-25T02:23:05",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-24T14:43:03",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-27",
+    "stats": {
+      "Confirmed": 13,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-27T03:33:06",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 3
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-27T22:43:02",
+        "Confirmed": 5,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-28",
+    "stats": {
+      "Confirmed": 14,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-27T03:33:06",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 3
+      },
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-27T22:43:02",
+        "Confirmed": 5,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-28T05:23:07",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-02-29",
+    "stats": {
+      "Confirmed": 20,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-29T23:23:13",
+        "Confirmed": 10,
+        "Deaths": 0,
+        "Recovered": 2
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-29T23:23:13",
+        "Confirmed": 8,
+        "Deaths": 0,
+        "Recovered": 3
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-28T05:23:07",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-03-01",
+    "stats": {
+      "Confirmed": 24,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-01T23:33:03",
+        "Confirmed": 14,
+        "Deaths": 0,
+        "Recovered": 2,
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-29T23:23:13",
+        "Confirmed": 8,
+        "Deaths": 0,
+        "Recovered": 3,
+        "Latitude": "49.2827",
+        "Longitude": "-123.1207"
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-28T05:23:07",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673"
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1,
+        "Latitude": "42.9849",
+        "Longitude": "-81.2453"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-02",
+    "stats": {
+      "Confirmed": 27,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-02T20:53:02",
+        "Confirmed": 17,
+        "Deaths": 0,
+        "Recovered": 2,
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-29T23:23:13",
+        "Confirmed": 8,
+        "Deaths": 0,
+        "Recovered": 3,
+        "Latitude": "49.2827",
+        "Longitude": "-123.1207"
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-28T05:23:07",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673"
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1,
+        "Latitude": "42.9849",
+        "Longitude": "-81.2453"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-03",
+    "stats": {
+      "Confirmed": 30,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-03T20:03:08",
+        "Confirmed": 19,
+        "Deaths": 0,
+        "Recovered": 2,
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-03T23:53:03",
+        "Confirmed": 9,
+        "Deaths": 0,
+        "Recovered": 3,
+        "Latitude": "49.2827",
+        "Longitude": "-123.1207"
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-28T05:23:07",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673"
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1,
+        "Latitude": "42.9849",
+        "Longitude": "-81.2453"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-04",
+    "stats": {
+      "Confirmed": 33,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-03T20:03:08",
+        "Confirmed": 19,
+        "Deaths": 0,
+        "Recovered": 2,
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-04T04:23:05",
+        "Confirmed": 12,
+        "Deaths": 0,
+        "Recovered": 3,
+        "Latitude": "49.2827",
+        "Longitude": "-123.1207"
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-28T05:23:07",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673"
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1,
+        "Latitude": "42.9849",
+        "Longitude": "-81.2453"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-05",
+    "stats": {
+      "Confirmed": 37,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-05T17:53:03",
+        "Confirmed": 21,
+        "Deaths": 0,
+        "Recovered": 2,
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-05T04:43:03",
+        "Confirmed": 13,
+        "Deaths": 0,
+        "Recovered": 3,
+        "Latitude": "49.2827",
+        "Longitude": "-123.1207"
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-05T14:03:04",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673"
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1,
+        "Latitude": "42.9849",
+        "Longitude": "-81.2453"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-06",
+    "stats": {
+      "Confirmed": 49,
+      "Deaths": 0,
+      "Recovered": 6
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-06T20:53:02",
+        "Confirmed": 24,
+        "Deaths": 0,
+        "Recovered": 2,
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-06T04:43:03",
+        "Confirmed": 21,
+        "Deaths": 0,
+        "Recovered": 3,
+        "Latitude": "49.2827",
+        "Longitude": "-123.1207"
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-05T14:03:04",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673"
+      },
+      {
+        "Province/State": "Calgary, Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-06T13:13:34",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "51.0447",
+        "Longitude": "-114.0719"
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1,
+        "Latitude": "42.9849",
+        "Longitude": "-81.2453"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-07",
+    "stats": {
+      "Confirmed": 54,
+      "Deaths": 0,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-07T03:53:03",
+        "Confirmed": 27,
+        "Deaths": 0,
+        "Recovered": 3,
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-07T03:53:03",
+        "Confirmed": 21,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "49.2827",
+        "Longitude": "-123.1207"
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-07T02:23:08",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673"
+      },
+      {
+        "Province/State": "Calgary, Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-06T13:13:34",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "51.0447",
+        "Longitude": "-114.0719"
+      },
+      {
+        "Province/State": "Edmonton, Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-07T02:23:08",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.5461",
+        "Longitude": "-113.4938"
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1,
+        "Latitude": "42.9849",
+        "Longitude": "-81.2453"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-08",
+    "stats": {
+      "Confirmed": 64,
+      "Deaths": 0,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "Toronto, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-08T21:33:02",
+        "Confirmed": 28,
+        "Deaths": 0,
+        "Recovered": 3,
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-08T05:13:07",
+        "Confirmed": 27,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "49.2827",
+        "Longitude": "-123.1207"
+      },
+      {
+        "Province/State": " Montreal, QC",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-08T16:03:05",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673"
+      },
+      {
+        "Province/State": "Edmonton, Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-08T16:23:07",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.5461",
+        "Longitude": "-113.4938"
+      },
+      {
+        "Province/State": "Calgary, Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-06T13:13:34",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "51.0447",
+        "Longitude": "-114.0719"
+      },
+      {
+        "Province/State": "London, ON",
+        "Country/Region": "Canada",
+        "Last Update": "2020-02-12T18:53:03",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 1,
+        "Latitude": "42.9849",
+        "Longitude": "-81.2453"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-09",
+    "stats": {
+      "Confirmed": 76,
+      "Deaths": 1,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-09T17:53:24",
+        "Confirmed": 34,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-09T22:43:25",
+        "Confirmed": 32,
+        "Deaths": 1,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476"
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-09T17:53:24",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765"
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-09T08:43:03",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491"
+      }
+    ]
+  }
+]
