@@ -1,0 +1,27 @@
+---
+permalink: barChartData.js
+---
+
+const barChartData = {
+  labels: {{ stats | map("date") | dump | safe }},
+  datasets: [
+    {
+      label: "Confirmed",
+      data: {{ stats | map("stats.Confirmed") | dump | safe }},
+      backgroundColor: '#fab546',
+      stack: "one"
+    },
+    {
+      label: "Recovered",
+      data: {{ stats | map("stats.Recovered") | dump | safe }},
+      backgroundColor: '#43583B',
+      stack: "one"
+    },
+    {
+      label: "Deaths",
+      data: {{ stats | map("stats.Deaths") | dump | safe }},
+      backgroundColor: '#BA4F4F',
+      stack: "one"
+    }
+  ]
+};

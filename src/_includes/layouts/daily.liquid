@@ -2,43 +2,63 @@
 layout: layouts/base.liquid
 ---
 
-{% assign previousPost = collections.results | getPreviousCollectionItem: page %}
-{% assign nextPost = collections.results | getNextCollectionItem: page %}
-
-<nav>
-{% if previousPost %}<a href="{{ previousPost.url }}">&laquo; {{ previousPost.data.date }}</a> &middot;{% endif %}
-<a href="/">Home</a>
-{% if nextPost %}&middot; <a href="{{ nextPost.url }}">{{ nextPost.data.date }} &raquo;</a>{% endif %}
-</nav>
-
 <main class="content">
   <header>
-    <h1>{{ date }}</h1>
+    <h1 class="text-2xl">{{ date }}</h1>
   </header>
   <article>
-    <table width="100%">
+    <table class="border-collapse border-2 border-gray-500 table-auto" width="100%">
     <thead>
     <tr>
-      <th class="left">Province/State</th>
-      <th class="left">Country/Region</th>
-      <th class="right">Confirmed ({{ stats.Confirmed }})</th>
-      <th class="right">Deaths ({{ stats.Deaths }})</th>
-      <th class="right">Recovered ({{ stats.Recovered }})</th>
-      <th class="right">Last Update</th>
+      <th class="text-left p-2 bg-gray-200">Province/State</th>
+      <th class="text-left p-2 bg-gray-200">Country/Region</th>
+      <th class="text-right p-2 bg-gray-200">Confirmed ({{ stats.Confirmed }})</th>
+      <th class="text-right p-2 bg-gray-200">Deaths ({{ stats.Deaths }})</th>
+      <th class="text-right p-2 bg-gray-200">Recovered ({{ stats.Recovered }})</th>
+      <th class="text-right p-2 bg-gray-200">Last Update</th>
     </tr>
     </thead>
     <tbody>
     {% for item in data %}
     <tr>
-      <td>{{ item["Province/State"] }}</td>
-      <td>{{ item["Country/Region"] }}</td>
-      <td class="right">{{ item.Confirmed }}</td>
-      <td class="right">{{ item.Deaths }}</td>
-      <td class="right">{{ item.Recovered }}</td>
-      <td class="right"><small>{{ item["Last Update"] | localeDateString }}</small></td>
+      <td class="p-2">{{ item["Province/State"] }}</td>
+      <td class="p-2">{{ item["Country/Region"] }}</td>
+      <td class="text-right px-4 py-2">{{ item.Confirmed }}</td>
+      <td class="text-right px-4 py-2">{{ item.Deaths }}</td>
+      <td class="text-right px-4 py-2">{{ item.Recovered }}</td>
+      <td class="text-right px-2 text-xs">{{ item["Last Update"] | localeDateString }}</td>
     </tr>
     {% endfor %}
     </tbody>
     </table>
   </article>
+
+  <canvas id="myChart" width="400" height="400"></canvas>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.bundle.min.js"></script>
+  <script src="/barChartData.js"></script>
+  <script>
+    const ctx = document.getElementById("myChart").getContext("2d");
+    const myChart = new Chart(ctx, {
+      type: "bar",
+      data: barChartData,
+      options: {
+        title: {
+          display: true,
+          text: "Reported cases of COVID-19 in Canada"
+        },
+        tooltips: {
+          mode: 'index',
+          intersect: false
+        },
+        scales: {
+          xAxes: [{
+            stacked: true,
+          }],
+          yAxes: [{
+            stacked: true
+          }]
+        }
+      }
+    });
+  </script>
 </main>

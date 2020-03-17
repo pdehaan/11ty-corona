@@ -1616,5 +1616,445 @@
         "Longitude": "-73.5491"
       }
     ]
+  },
+  {
+    "date": "2020-03-10",
+    "stats": {
+      "Confirmed": 79,
+      "Deaths": 1,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-10T17:13:32",
+        "Confirmed": 36,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-09T22:43:25",
+        "Confirmed": 32,
+        "Deaths": 1,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476"
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-09T17:53:24",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765"
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-10T00:53:03",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-11",
+    "stats": {
+      "Confirmed": 108,
+      "Deaths": 1,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T18:52:04",
+        "Confirmed": 41,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T02:18:28",
+        "Confirmed": 39,
+        "Deaths": 1,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476"
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T23:13:07",
+        "Confirmed": 19,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765"
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T23:13:06",
+        "Confirmed": 8,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491"
+      },
+      {
+        "Province/State": "New Brunswick",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T23:13:06",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5653",
+        "Longitude": "-66.4619"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-12",
+    "stats": {
+      "Confirmed": 117,
+      "Deaths": 1,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-12T01:53:03",
+        "Confirmed": 46,
+        "Deaths": 1,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476"
+      },
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-12T01:53:03",
+        "Confirmed": 42,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232"
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T23:13:07",
+        "Confirmed": 19,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765"
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-12T01:53:03",
+        "Confirmed": 9,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491"
+      },
+      {
+        "Province/State": "New Brunswick",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T23:13:06",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5653",
+        "Longitude": "-66.4619"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-13",
+    "stats": {
+      "Confirmed": 193,
+      "Deaths": 1,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T20:00:00",
+        "Confirmed": 64,
+        "Deaths": 1,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476"
+      },
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T20:00:00",
+        "Confirmed": 74,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232"
+      },
+      {
+        "Province/State": "New Brunswick",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T20:00:00",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5653",
+        "Longitude": "-66.4619"
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T20:00:00",
+        "Confirmed": 17,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491"
+      },
+      {
+        "Province/State": "Manitoba",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T20:00:00",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.7609",
+        "Longitude": "-98.8139"
+      },
+      {
+        "Province/State": "Saskatchewan",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T20:00:00",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-106.4509"
+      },
+      {
+        "Province/State": "Grand Princess",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T20:00:00",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "37.6489",
+        "Longitude": "-122.6655"
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T20:00:00",
+        "Confirmed": 29,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-14",
+    "stats": {
+      "Confirmed": 196,
+      "Deaths": 1,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-14T13:13:25",
+        "Confirmed": 79,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-14T00:13:05",
+        "Confirmed": 64,
+        "Deaths": 1,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476"
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-14T00:13:05",
+        "Confirmed": 29,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765"
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-13T13:33:03",
+        "Confirmed": 17,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491"
+      },
+      {
+        "Province/State": "Manitoba",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-14T00:13:05",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.7609",
+        "Longitude": "-98.8139"
+      },
+      {
+        "Province/State": "Saskatchewan",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-14T00:13:05",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-106.4509"
+      },
+      {
+        "Province/State": "New Brunswick",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-11T23:13:06",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5653",
+        "Longitude": "-66.4619"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-15",
+    "stats": {
+      "Confirmed": 250,
+      "Deaths": 1,
+      "Recovered": 8
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T01:53:03",
+        "Confirmed": 104,
+        "Deaths": 0,
+        "Recovered": 4,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232"
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T01:53:02",
+        "Confirmed": 73,
+        "Deaths": 1,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476"
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T01:53:03",
+        "Confirmed": 39,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765"
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T01:53:02",
+        "Confirmed": 24,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491"
+      },
+      {
+        "Province/State": "Manitoba",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-14T00:13:05",
+        "Confirmed": 4,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.7609",
+        "Longitude": "-98.8139"
+      },
+      {
+        "Province/State": "New Brunswick",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T01:53:02",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5653",
+        "Longitude": "-66.4619"
+      },
+      {
+        "Province/State": "Saskatchewan",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-14T00:13:05",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-106.4509"
+      },
+      {
+        "Province/State": "Newfoundland and Labrador",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T02:13:21",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.1355",
+        "Longitude": "-57.6604"
+      },
+      {
+        "Province/State": "Prince Edward Island",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T02:13:21",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5107",
+        "Longitude": "-63.4168"
+      }
+    ]
   }
 ]

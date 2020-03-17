@@ -3,24 +3,42 @@
 <head>
   <meta charset="utf-8" />
   <title>{{ title }}</title>
-  <style>
-    th.left,
-    td.left {
-      text-align: left;
-    }
-    th.right,
-    td.right {
-      text-align: right;
-    }
-  </style>
+  <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet" />
 </head>
 <body>
 
-  <div class="container">{{ content | trim | safe }}</div>
-  <footer>
-    <hr/>
-    <p>Data via <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports">github.com/CSSEGISandData/COVID-19 (csse_covid_19_data/csse_covid_19_daily_reports)</a>.</p>
-  </footer>
+{% assign previousPost = collections.results | getPreviousCollectionItem: page %}
+{% assign nextPost = collections.results | getNextCollectionItem: page %}
+
+  <div class="container mx-auto px-4 py-10">
+    <header>
+      <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
+        <div class="flex items-center flex-shrink-0 text-white mr-6">
+          <h1 class="font-semibold text-3xl tracking-tight"><a href="/">COVID-19 Canada</a></h1>
+        </div>
+        <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+          <div class="text-sm lg:flex-grow">
+            {% if previousPost %}
+            <a href="{{ previousPost.url | url }}" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
+              &laquo; {{ previousPost.data.date }}
+            </a>
+            {% endif %}
+            {% if nextPost %}
+            <a href="{{ nextPost.url | url }}" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
+              {{ nextPost.data.date }} &raquo;
+            </a>
+            {% endif %}
+          </div>
+        </div>
+      </nav>
+    </header>
+    {{ content | trim | safe }}
+    <footer>
+      <hr/>
+      <p class="text-xs mx-auto py-6 bt-1">Data via <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports" class="text-indigo-600 hover:text-indigo-400">github.com/CSSEGISandData/COVID-19 (csse_covid_19_data/csse_covid_19_daily_reports)</a>.</p>
+    </footer>
+  </div>
+
 
 </body>
 </html>

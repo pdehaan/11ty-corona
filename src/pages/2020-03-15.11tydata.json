@@ -1,0 +1,100 @@
+{
+  "date": "2020-03-15",
+  "stats": {
+    "Confirmed": 250,
+    "Deaths": 1,
+    "Recovered": 8
+  },
+  "data": [
+    {
+      "Province/State": "Ontario",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-15T01:53:03",
+      "Confirmed": 104,
+      "Deaths": 0,
+      "Recovered": 4,
+      "Latitude": "51.2538",
+      "Longitude": "-85.3232"
+    },
+    {
+      "Province/State": "British Columbia",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-15T01:53:02",
+      "Confirmed": 73,
+      "Deaths": 1,
+      "Recovered": 4,
+      "Latitude": "53.7267",
+      "Longitude": "-127.6476"
+    },
+    {
+      "Province/State": "Alberta",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-15T01:53:03",
+      "Confirmed": 39,
+      "Deaths": 0,
+      "Recovered": 0,
+      "Latitude": "53.9333",
+      "Longitude": "-116.5765"
+    },
+    {
+      "Province/State": "Quebec",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-15T01:53:02",
+      "Confirmed": 24,
+      "Deaths": 0,
+      "Recovered": 0,
+      "Latitude": "52.9399",
+      "Longitude": "-73.5491"
+    },
+    {
+      "Province/State": "Manitoba",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-14T00:13:05",
+      "Confirmed": 4,
+      "Deaths": 0,
+      "Recovered": 0,
+      "Latitude": "53.7609",
+      "Longitude": "-98.8139"
+    },
+    {
+      "Province/State": "New Brunswick",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-15T01:53:02",
+      "Confirmed": 2,
+      "Deaths": 0,
+      "Recovered": 0,
+      "Latitude": "46.5653",
+      "Longitude": "-66.4619"
+    },
+    {
+      "Province/State": "Saskatchewan",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-14T00:13:05",
+      "Confirmed": 2,
+      "Deaths": 0,
+      "Recovered": 0,
+      "Latitude": "52.9399",
+      "Longitude": "-106.4509"
+    },
+    {
+      "Province/State": "Newfoundland and Labrador",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-15T02:13:21",
+      "Confirmed": 1,
+      "Deaths": 0,
+      "Recovered": 0,
+      "Latitude": "53.1355",
+      "Longitude": "-57.6604"
+    },
+    {
+      "Province/State": "Prince Edward Island",
+      "Country/Region": "Canada",
+      "Last Update": "2020-03-15T02:13:21",
+      "Confirmed": 1,
+      "Deaths": 0,
+      "Recovered": 0,
+      "Latitude": "46.5107",
+      "Longitude": "-63.4168"
+    }
+  ]
+}
