@@ -18,6 +18,7 @@ async function main() {
       item.Confirmed = Number(item.Confirmed) || 0;
       item.Deaths = Number(item.Deaths) || 0;
       item.Recovered = Number(item.Recovered) || 0;
+      item.Active = Number(item.Confirmed) - Number(item.Deaths) - Number(item.Recovered) || 0;
       return item;
     });
     const dailyStats = canada.reduce((acc={}, item) => {
@@ -27,11 +28,12 @@ async function main() {
       return acc;
     }, {Confirmed:0, Deaths:0, Recovered:0});
 
+    dailyStats.Active = dailyStats.Confirmed - dailyStats.Deaths - dailyStats.Recovered;
     const obj = {date, stats: dailyStats, data: canada};
     if (canada.length !== 0) {
       results.push(obj);
-      await fs.writeFile(path.join("./src/pages", `${date}.11tydata.json`), JSON.stringify(obj, null, 2));
-      await fs.writeFile(path.join("./src/pages", `${date}.liquid`), `---\ntitle: ${date }\n---\n`);
+      // await fs.writeFile(path.join("./src/pages", `${date}.11tydata.json`), JSON.stringify(obj, null, 2));
+      // await fs.writeFile(path.join("./src/pages", `${date}.liquid`), `---\ntitle: ${date }\n---\n`);
     }
   }
 

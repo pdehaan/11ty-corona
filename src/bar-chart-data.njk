@@ -8,19 +8,19 @@ const barChartData = {
     {
       label: "Confirmed",
       data: {{ stats | map("stats.Confirmed") | dump | safe }},
-      backgroundColor: '#fab546',
+      backgroundColor: '#eee', // yellow-400
       stack: "one"
     },
     {
       label: "Recovered",
       data: {{ stats | map("stats.Recovered") | dump | safe }},
-      backgroundColor: '#43583B',
+      backgroundColor: '#8cc63f', // green-500
       stack: "one"
     },
     {
       label: "Deaths",
       data: {{ stats | map("stats.Deaths") | dump | safe }},
-      backgroundColor: '#BA4F4F',
+      backgroundColor: '#000', // red-600
       stack: "one"
     }
   ]

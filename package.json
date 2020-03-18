@@ -1,6 +1,7 @@
 {
   "name": "11ty-corona",
-  "description": "",
+  "title": "COVID-19 Canada",
+  "description": "Reported cases of COVID-19 in Canada",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
   "bugs": {

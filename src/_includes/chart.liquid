@@ -1,0 +1,30 @@
+<canvas id="myChart" width="400" height="200"></canvas>
+<p class="text-xs mx-auto py-6 bt-1">Data via <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports" class="text-teal-600 hover:text-teal-400">github.com/CSSEGISandData/COVID-19 (csse_covid_19_data/csse_covid_19_daily_reports)</a>.</p>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.bundle.min.js"></script>
+<script src="/barChartData.js"></script>
+<script>
+  const ctx = document.getElementById("myChart").getContext("2d");
+  const myChart = new Chart(ctx, {
+    type: "bar",
+    data: barChartData,
+    options: {
+      title: {
+        display: true,
+        text: "{{ pkg.description }}"
+      },
+      tooltips: {
+        mode: 'index',
+        intersect: false
+      },
+      scales: {
+        xAxes: [{
+          stacked: true,
+        }],
+        yAxes: [{
+          stacked: true
+        }]
+      }
+    }
+  });
+</script>

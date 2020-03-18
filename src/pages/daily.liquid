@@ -1,0 +1,18 @@
+---
+pagination:
+  data: stats
+  size: 1
+  alias: daily
+  addAllPagesToCollections: true
+permalink: "pages/{{ daily.date }}/"
+---
+
+<aside class="py-8">
+  {% include chart.liquid %}
+</aside>
+
+<aside class="py-8">
+  {% include table.liquid %}
+  <p class="text-xs mx-auto py-6 bt-1">Table via <a href="https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf" class="text-teal-600 hover:text-teal-400">imperial.ac.uk (PDF)</a>.</p>
+</aside>
+

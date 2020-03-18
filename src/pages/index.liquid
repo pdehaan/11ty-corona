@@ -9,23 +9,34 @@ layout: layouts/base.liquid
 {% assign latest = stats | first %}
 {% assign deathsPct = latest.stats.Deaths | divided_by: latest.stats.Confirmed | times: 100 | toFixed: 2 %}
 {% assign recoveredPct = latest.stats.Recovered | divided_by: latest.stats.Confirmed | times: 100 | toFixed: 2 %}
+{% assign activePct = latest.stats.Confirmed | minus: latest.stats.Deaths | minus: latest.stats.Recovered | divided_by: latest.stats.Confirmed | times: 100 | toFixed: 2 %}
 
 <table class="border-collapse border-2 border-gray-500 table-auto" width="100%">
 <thead>
-<tr>
-  <th class="text-left p-2 bg-gray-200">Date</th>
-  <th class="text-right p-2 bg-gray-200">Confirmed</th>
-  <th class="text-right p-2 bg-gray-200">Deaths ({{ deathsPct }}%)</th>
-  <th class="text-right p-2 bg-gray-200">Recovered ({{ recoveredPct }}%)</th>
+<tr class="text-right bg-gray-200">
+  <th class="text-left p-2">Date</th>
+  <th class="p-2">Confirmed</th>
+  <th class="p-2">Deaths ({{ deathsPct }}%)</th>
+  <th class="p-2">Recovered ({{ recoveredPct }}%)</th>
+  <th class="p-2">Active ({{ activePct }}%)</th>
+  <th class="p-2">% Active</th>
 </tr>
 </thead>
 <tbody>
 {%- for data in recentStats %}
-<tr>
-  <td class="p-2"><a href="pages/{{ data.date }}/" class="text-indigo-600 hover:text-indigo-400">{{ data.date }}</a></td>
-  <td class="p-2 text-right">{{ data.stats.Confirmed }}</td>
-  <td class="p-2 text-right">{{ data.stats.Deaths }}</td>
-  <td class="p-2 text-right">{{ data.stats.Recovered }}</td>
+{% assign active = data.stats.Confirmed | minus: data.stats.Deaths | minus: data.stats.Recovered %}
+{% assign activePct = data.stats.Active | divided_by: data.stats.Confirmed | times: 100 %}
+{% assign precision = 2 %}
+{% if activePct == 100 %}
+  {% assign precision = 0 %}
+{% endif %}
+<tr class="text-right">
+  <td class="p-2 text-left"><a href="pages/{{ data.date }}/" class="text-indigo-600 hover:text-indigo-400">{{ data.date }}</a></td>
+  <td class="p-2">{{ data.stats.Confirmed }}</td>
+  <td class="p-2 {% if data.stats.Deaths != 0 %}text-red-500{% else %}text-gray-500 text-xs{% endif %}">{{ data.stats.Deaths }}</td>
+  <td class="p-2 {% if data.stats.Recovered != 0 %}text-green-500{% else %}text-gray-500 text-xs{% endif %}">{{ data.stats.Recovered }}</td>
+  <td class="p-2">{{ data.stats.Active }}</td>
+  <td class="p-2">{{ activePct | toFixed: precision }}%</td>
 </tr>
 {%- endfor %}
 </tbody>

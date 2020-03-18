@@ -4,61 +4,45 @@ layout: layouts/base.liquid
 
 <main class="content">
   <header>
-    <h1 class="text-2xl">{{ date }}</h1>
+    <h1 class="text-2xl">{{ daily.date }}</h1>
   </header>
   <article>
     <table class="border-collapse border-2 border-gray-500 table-auto" width="100%">
     <thead>
-    <tr>
+    <tr class="text-right bg-gray-200">
       <th class="text-left p-2 bg-gray-200">Province/State</th>
-      <th class="text-left p-2 bg-gray-200">Country/Region</th>
-      <th class="text-right p-2 bg-gray-200">Confirmed ({{ stats.Confirmed }})</th>
-      <th class="text-right p-2 bg-gray-200">Deaths ({{ stats.Deaths }})</th>
-      <th class="text-right p-2 bg-gray-200">Recovered ({{ stats.Recovered }})</th>
-      <th class="text-right p-2 bg-gray-200">Last Update</th>
+      {% comment %} <th class="text-left p-2 bg-gray-200">Country/Region</th> {% endcomment %}
+      <th class="p-2 bg-gray-200">Population</th>
+      <th class="p-2 bg-gray-200">Confirmed ({{ daily.stats.Confirmed }})</th>
+      <th class="p-2 bg-gray-200">Deaths ({{ daily.stats.Deaths }})</th>
+      <th class="p-2 bg-gray-200">Recovered ({{ daily.stats.Recovered }})</th>
+      <th class="p-2">Active ({{ daily.stats.Active }})</th>
+      <th class="p-2">% Active</th>
+      <th class="p-2">% Population</th>
+      <th class="p-2">Last Update</th>
     </tr>
     </thead>
     <tbody>
-    {% for item in data %}
-    <tr>
-      <td class="p-2">{{ item["Province/State"] }}</td>
-      <td class="p-2">{{ item["Country/Region"] }}</td>
-      <td class="text-right px-4 py-2">{{ item.Confirmed }}</td>
-      <td class="text-right px-4 py-2">{{ item.Deaths }}</td>
-      <td class="text-right px-4 py-2">{{ item.Recovered }}</td>
-      <td class="text-right px-2 text-xs">{{ item["Last Update"] | localeDateString }}</td>
-    </tr>
+    {% for item in daily.data %}
+      {% assign province = item["Province/State"] %}
+      {% assign provincePopulation = population[province] %}
+      {% assign active = item.Active %}
+      <tr>
+        <td class="p-2">{{ province }}</td>
+        {% comment %} <td class="p-2">{{ item["Country/Region"] }}</td> {% endcomment %}
+        <td class="text-right p-2">{% if provincePopulation %}{{ provincePopulation | localeNumberString }}{% endif %}</td>
+        <td class="text-right px-4 py-2">{{ item.Confirmed }}</td>
+        <td class="text-right px-4 py-2 {% if item.Deaths != 0 %}text-red-500{% else %}text-gray-500 text-xs{% endif %}">{{ item.Deaths }}</td>
+        <td class="text-right px-4 py-2 {% if item.Recovered != 0 %}text-green-500{% else %}text-gray-500 text-xs{% endif %}">{{ item.Recovered }}</td>
+        <td class="text-right px-4 py-2">{{ item.Active }}</td>
+        <td class="text-right p-2">{{ item.Active | divided_by: item.Confirmed | times: 100 | round: 1 }}%</td>
+        <td class="text-right p-2">{% if provincePopulation %}{{ item.Active | divided_by: provincePopulation | times: 100 | round: 4 | toFixed: 4 }}%{% else %}&nbsp;{% endif %}</td>
+        <td class="text-right p-2 text-xs">{{ item["Last Update"] | localeDateString }}</td>
+      </tr>
     {% endfor %}
     </tbody>
     </table>
   </article>
 
-  <canvas id="myChart" width="400" height="400"></canvas>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.bundle.min.js"></script>
-  <script src="/barChartData.js"></script>
-  <script>
-    const ctx = document.getElementById("myChart").getContext("2d");
-    const myChart = new Chart(ctx, {
-      type: "bar",
-      data: barChartData,
-      options: {
-        title: {
-          display: true,
-          text: "Reported cases of COVID-19 in Canada"
-        },
-        tooltips: {
-          mode: 'index',
-          intersect: false
-        },
-        scales: {
-          xAxes: [{
-            stacked: true,
-          }],
-          yAxes: [{
-            stacked: true
-          }]
-        }
-      }
-    });
-  </script>
+  {{ content }}
 </main>

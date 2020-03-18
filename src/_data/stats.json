@@ -4,7 +4,8 @@
     "stats": {
       "Confirmed": 1,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 1
     },
     "data": [
       {
@@ -13,7 +14,8 @@
         "Last Update": "1/26/20 16:00",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -22,7 +24,8 @@
     "stats": {
       "Confirmed": 1,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 1
     },
     "data": [
       {
@@ -31,7 +34,8 @@
         "Last Update": "1/27/20 23:59",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -40,7 +44,8 @@
     "stats": {
       "Confirmed": 2,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 2
     },
     "data": [
       {
@@ -49,7 +54,8 @@
         "Last Update": "1/28/20 23:00",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       },
       {
         "Province/State": "British Columbia",
@@ -57,7 +63,8 @@
         "Last Update": "1/28/20 23:00",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -66,7 +73,8 @@
     "stats": {
       "Confirmed": 2,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 2
     },
     "data": [
       {
@@ -75,7 +83,8 @@
         "Last Update": "1/29/20 19:30",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       },
       {
         "Province/State": "British Columbia",
@@ -83,7 +92,8 @@
         "Last Update": "1/29/20 19:30",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -92,7 +102,8 @@
     "stats": {
       "Confirmed": 3,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 3
     },
     "data": [
       {
@@ -101,7 +112,8 @@
         "Last Update": "1/30/20 16:00",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "British Columbia",
@@ -109,7 +121,8 @@
         "Last Update": "1/30/20 16:00",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -118,7 +131,8 @@
     "stats": {
       "Confirmed": 3,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 3
     },
     "data": [
       {
@@ -127,7 +141,8 @@
         "Last Update": "1/31/2020 23:59",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "British Columbia",
@@ -135,7 +150,8 @@
         "Last Update": "1/31/2020 23:59",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -144,7 +160,8 @@
     "stats": {
       "Confirmed": 4,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 4
     },
     "data": [
       {
@@ -153,7 +170,8 @@
         "Last Update": "2/1/2020 18:12",
         "Confirmed": 3,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 3
       },
       {
         "Province/State": "British Columbia",
@@ -161,7 +179,8 @@
         "Last Update": "2/1/2020 18:12",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -170,7 +189,8 @@
     "stats": {
       "Confirmed": 4,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 4
     },
     "data": [
       {
@@ -179,7 +199,8 @@
         "Last Update": "2020-02-01T18:12:49",
         "Confirmed": 3,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 3
       },
       {
         "Province/State": "British Columbia",
@@ -187,7 +208,8 @@
         "Last Update": "2020-02-01T18:12:49",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -196,7 +218,8 @@
     "stats": {
       "Confirmed": 4,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 4
     },
     "data": [
       {
@@ -205,7 +228,8 @@
         "Last Update": "2020-02-01T18:12:49",
         "Confirmed": 3,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 3
       },
       {
         "Province/State": "British Columbia",
@@ -213,7 +237,8 @@
         "Last Update": "2020-02-01T18:12:49",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -222,7 +247,8 @@
     "stats": {
       "Confirmed": 4,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 4
     },
     "data": [
       {
@@ -231,7 +257,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "British Columbia",
@@ -239,7 +266,8 @@
         "Last Update": "2020-02-01T18:12:49",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -247,7 +275,8 @@
         "Last Update": "2020-02-04T00:03:11",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -256,7 +285,8 @@
     "stats": {
       "Confirmed": 5,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 5
     },
     "data": [
       {
@@ -265,7 +295,8 @@
         "Last Update": "2020-02-05T17:33:03",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "Toronto, ON",
@@ -273,7 +304,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -281,7 +313,8 @@
         "Last Update": "2020-02-04T00:03:11",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -290,7 +323,8 @@
     "stats": {
       "Confirmed": 5,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 5
     },
     "data": [
       {
@@ -299,7 +333,8 @@
         "Last Update": "2020-02-05T17:33:03",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "Toronto, ON",
@@ -307,7 +342,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -315,7 +351,8 @@
         "Last Update": "2020-02-04T00:03:11",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -324,7 +361,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 7
     },
     "data": [
       {
@@ -333,7 +371,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -341,7 +380,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -349,7 +389,8 @@
         "Last Update": "2020-02-04T00:03:11",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -358,7 +399,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 7
     },
     "data": [
       {
@@ -367,7 +409,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -375,7 +418,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -383,7 +427,8 @@
         "Last Update": "2020-02-04T00:03:11",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -392,7 +437,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 7
     },
     "data": [
       {
@@ -401,7 +447,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -409,7 +456,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -417,7 +465,8 @@
         "Last Update": "2020-02-04T00:03:11",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -426,7 +475,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 7
     },
     "data": [
       {
@@ -435,7 +485,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -443,7 +494,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -451,7 +503,8 @@
         "Last Update": "2020-02-04T00:03:11",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -460,7 +513,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 0
+      "Recovered": 0,
+      "Active": 7
     },
     "data": [
       {
@@ -469,7 +523,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -477,7 +532,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -485,7 +541,8 @@
         "Last Update": "2020-02-04T00:03:11",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       }
     ]
   },
@@ -494,7 +551,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 6
     },
     "data": [
       {
@@ -503,7 +561,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -511,7 +570,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -519,7 +579,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -528,7 +589,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 6
     },
     "data": [
       {
@@ -537,7 +599,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -545,7 +608,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -553,7 +617,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -562,7 +627,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 6
     },
     "data": [
       {
@@ -571,7 +637,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -579,7 +646,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -587,7 +655,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -596,7 +665,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 6
     },
     "data": [
       {
@@ -605,7 +675,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -613,7 +684,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -621,7 +693,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -630,7 +703,8 @@
     "stats": {
       "Confirmed": 7,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 6
     },
     "data": [
       {
@@ -639,7 +713,8 @@
         "Last Update": "2020-02-07T05:43:03",
         "Confirmed": 4,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -647,7 +722,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -655,7 +731,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -664,7 +741,8 @@
     "stats": {
       "Confirmed": 8,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 7
     },
     "data": [
       {
@@ -673,7 +751,8 @@
         "Last Update": "2020-02-17T08:03:07",
         "Confirmed": 5,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 5
       },
       {
         "Province/State": "Toronto, ON",
@@ -681,7 +760,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -689,7 +769,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -698,7 +779,8 @@
     "stats": {
       "Confirmed": 8,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 7
     },
     "data": [
       {
@@ -707,7 +789,8 @@
         "Last Update": "2020-02-17T08:03:07",
         "Confirmed": 5,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 5
       },
       {
         "Province/State": "Toronto, ON",
@@ -715,7 +798,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -723,7 +807,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -732,7 +817,8 @@
     "stats": {
       "Confirmed": 8,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 7
     },
     "data": [
       {
@@ -741,7 +827,8 @@
         "Last Update": "2020-02-17T08:03:07",
         "Confirmed": 5,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 5
       },
       {
         "Province/State": "Toronto, ON",
@@ -749,7 +836,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -757,7 +845,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -766,7 +855,8 @@
     "stats": {
       "Confirmed": 8,
       "Deaths": 0,
-      "Recovered": 1
+      "Recovered": 1,
+      "Active": 7
     },
     "data": [
       {
@@ -775,7 +865,8 @@
         "Last Update": "2020-02-17T08:03:07",
         "Confirmed": 5,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 5
       },
       {
         "Province/State": "Toronto, ON",
@@ -783,7 +874,8 @@
         "Last Update": "2020-02-04T00:13:06",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -791,7 +883,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -800,7 +893,8 @@
     "stats": {
       "Confirmed": 9,
       "Deaths": 0,
-      "Recovered": 3
+      "Recovered": 3,
+      "Active": 6
     },
     "data": [
       {
@@ -809,7 +903,8 @@
         "Last Update": "2020-02-21T05:23:04",
         "Confirmed": 6,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 6
       },
       {
         "Province/State": "Toronto, ON",
@@ -817,7 +912,8 @@
         "Last Update": "2020-02-21T05:23:04",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 0
       },
       {
         "Province/State": "London, ON",
@@ -825,7 +921,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -834,7 +931,8 @@
     "stats": {
       "Confirmed": 9,
       "Deaths": 0,
-      "Recovered": 3
+      "Recovered": 3,
+      "Active": 6
     },
     "data": [
       {
@@ -843,7 +941,8 @@
         "Last Update": "2020-02-21T05:23:04",
         "Confirmed": 6,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 6
       },
       {
         "Province/State": "Toronto, ON",
@@ -851,7 +950,8 @@
         "Last Update": "2020-02-21T05:23:04",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 0
       },
       {
         "Province/State": "London, ON",
@@ -859,7 +959,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -868,7 +969,8 @@
     "stats": {
       "Confirmed": 9,
       "Deaths": 0,
-      "Recovered": 3
+      "Recovered": 3,
+      "Active": 6
     },
     "data": [
       {
@@ -877,7 +979,8 @@
         "Last Update": "2020-02-21T05:23:04",
         "Confirmed": 6,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 6
       },
       {
         "Province/State": "Toronto, ON",
@@ -885,7 +988,8 @@
         "Last Update": "2020-02-21T05:23:04",
         "Confirmed": 2,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 0
       },
       {
         "Province/State": "London, ON",
@@ -893,7 +997,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -902,7 +1007,8 @@
     "stats": {
       "Confirmed": 10,
       "Deaths": 0,
-      "Recovered": 3
+      "Recovered": 3,
+      "Active": 7
     },
     "data": [
       {
@@ -911,7 +1017,8 @@
         "Last Update": "2020-02-21T05:23:04",
         "Confirmed": 6,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 6
       },
       {
         "Province/State": "Toronto, ON",
@@ -919,7 +1026,8 @@
         "Last Update": "2020-02-24T14:43:03",
         "Confirmed": 3,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -927,7 +1035,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -936,7 +1045,8 @@
     "stats": {
       "Confirmed": 11,
       "Deaths": 0,
-      "Recovered": 3
+      "Recovered": 3,
+      "Active": 8
     },
     "data": [
       {
@@ -945,7 +1055,8 @@
         "Last Update": "2020-02-25T02:23:05",
         "Confirmed": 7,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 7
       },
       {
         "Province/State": "Toronto, ON",
@@ -953,7 +1064,8 @@
         "Last Update": "2020-02-24T14:43:03",
         "Confirmed": 3,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -961,7 +1073,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -970,7 +1083,8 @@
     "stats": {
       "Confirmed": 11,
       "Deaths": 0,
-      "Recovered": 3
+      "Recovered": 3,
+      "Active": 8
     },
     "data": [
       {
@@ -979,7 +1093,8 @@
         "Last Update": "2020-02-25T02:23:05",
         "Confirmed": 7,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 7
       },
       {
         "Province/State": "Toronto, ON",
@@ -987,7 +1102,8 @@
         "Last Update": "2020-02-24T14:43:03",
         "Confirmed": 3,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -995,7 +1111,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -1004,7 +1121,8 @@
     "stats": {
       "Confirmed": 13,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 7
     },
     "data": [
       {
@@ -1013,7 +1131,8 @@
         "Last Update": "2020-02-27T03:33:06",
         "Confirmed": 7,
         "Deaths": 0,
-        "Recovered": 3
+        "Recovered": 3,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -1021,7 +1140,8 @@
         "Last Update": "2020-02-27T22:43:02",
         "Confirmed": 5,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 3
       },
       {
         "Province/State": "London, ON",
@@ -1029,7 +1149,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -1038,7 +1159,8 @@
     "stats": {
       "Confirmed": 14,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 8
     },
     "data": [
       {
@@ -1047,7 +1169,8 @@
         "Last Update": "2020-02-27T03:33:06",
         "Confirmed": 7,
         "Deaths": 0,
-        "Recovered": 3
+        "Recovered": 3,
+        "Active": 4
       },
       {
         "Province/State": "Toronto, ON",
@@ -1055,7 +1178,8 @@
         "Last Update": "2020-02-27T22:43:02",
         "Confirmed": 5,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 3
       },
       {
         "Province/State": " Montreal, QC",
@@ -1063,7 +1187,8 @@
         "Last Update": "2020-02-28T05:23:07",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1071,7 +1196,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -1080,7 +1206,8 @@
     "stats": {
       "Confirmed": 20,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 14
     },
     "data": [
       {
@@ -1089,7 +1216,8 @@
         "Last Update": "2020-02-29T23:23:13",
         "Confirmed": 10,
         "Deaths": 0,
-        "Recovered": 2
+        "Recovered": 2,
+        "Active": 8
       },
       {
         "Province/State": "British Columbia",
@@ -1097,7 +1225,8 @@
         "Last Update": "2020-02-29T23:23:13",
         "Confirmed": 8,
         "Deaths": 0,
-        "Recovered": 3
+        "Recovered": 3,
+        "Active": 5
       },
       {
         "Province/State": " Montreal, QC",
@@ -1105,7 +1234,8 @@
         "Last Update": "2020-02-28T05:23:07",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 0
+        "Recovered": 0,
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1113,7 +1243,8 @@
         "Last Update": "2020-02-12T18:53:03",
         "Confirmed": 1,
         "Deaths": 0,
-        "Recovered": 1
+        "Recovered": 1,
+        "Active": 0
       }
     ]
   },
@@ -1122,7 +1253,8 @@
     "stats": {
       "Confirmed": 24,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 18
     },
     "data": [
       {
@@ -1133,7 +1265,8 @@
         "Deaths": 0,
         "Recovered": 2,
         "Latitude": "43.6532",
-        "Longitude": "-79.3832"
+        "Longitude": "-79.3832",
+        "Active": 12
       },
       {
         "Province/State": "British Columbia",
@@ -1143,7 +1276,8 @@
         "Deaths": 0,
         "Recovered": 3,
         "Latitude": "49.2827",
-        "Longitude": "-123.1207"
+        "Longitude": "-123.1207",
+        "Active": 5
       },
       {
         "Province/State": " Montreal, QC",
@@ -1153,7 +1287,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "45.5017",
-        "Longitude": "-73.5673"
+        "Longitude": "-73.5673",
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1163,7 +1298,8 @@
         "Deaths": 0,
         "Recovered": 1,
         "Latitude": "42.9849",
-        "Longitude": "-81.2453"
+        "Longitude": "-81.2453",
+        "Active": 0
       }
     ]
   },
@@ -1172,7 +1308,8 @@
     "stats": {
       "Confirmed": 27,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 21
     },
     "data": [
       {
@@ -1183,7 +1320,8 @@
         "Deaths": 0,
         "Recovered": 2,
         "Latitude": "43.6532",
-        "Longitude": "-79.3832"
+        "Longitude": "-79.3832",
+        "Active": 15
       },
       {
         "Province/State": "British Columbia",
@@ -1193,7 +1331,8 @@
         "Deaths": 0,
         "Recovered": 3,
         "Latitude": "49.2827",
-        "Longitude": "-123.1207"
+        "Longitude": "-123.1207",
+        "Active": 5
       },
       {
         "Province/State": " Montreal, QC",
@@ -1203,7 +1342,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "45.5017",
-        "Longitude": "-73.5673"
+        "Longitude": "-73.5673",
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1213,7 +1353,8 @@
         "Deaths": 0,
         "Recovered": 1,
         "Latitude": "42.9849",
-        "Longitude": "-81.2453"
+        "Longitude": "-81.2453",
+        "Active": 0
       }
     ]
   },
@@ -1222,7 +1363,8 @@
     "stats": {
       "Confirmed": 30,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 24
     },
     "data": [
       {
@@ -1233,7 +1375,8 @@
         "Deaths": 0,
         "Recovered": 2,
         "Latitude": "43.6532",
-        "Longitude": "-79.3832"
+        "Longitude": "-79.3832",
+        "Active": 17
       },
       {
         "Province/State": "British Columbia",
@@ -1243,7 +1386,8 @@
         "Deaths": 0,
         "Recovered": 3,
         "Latitude": "49.2827",
-        "Longitude": "-123.1207"
+        "Longitude": "-123.1207",
+        "Active": 6
       },
       {
         "Province/State": " Montreal, QC",
@@ -1253,7 +1397,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "45.5017",
-        "Longitude": "-73.5673"
+        "Longitude": "-73.5673",
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1263,7 +1408,8 @@
         "Deaths": 0,
         "Recovered": 1,
         "Latitude": "42.9849",
-        "Longitude": "-81.2453"
+        "Longitude": "-81.2453",
+        "Active": 0
       }
     ]
   },
@@ -1272,7 +1418,8 @@
     "stats": {
       "Confirmed": 33,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 27
     },
     "data": [
       {
@@ -1283,7 +1430,8 @@
         "Deaths": 0,
         "Recovered": 2,
         "Latitude": "43.6532",
-        "Longitude": "-79.3832"
+        "Longitude": "-79.3832",
+        "Active": 17
       },
       {
         "Province/State": "British Columbia",
@@ -1293,7 +1441,8 @@
         "Deaths": 0,
         "Recovered": 3,
         "Latitude": "49.2827",
-        "Longitude": "-123.1207"
+        "Longitude": "-123.1207",
+        "Active": 9
       },
       {
         "Province/State": " Montreal, QC",
@@ -1303,7 +1452,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "45.5017",
-        "Longitude": "-73.5673"
+        "Longitude": "-73.5673",
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1313,7 +1463,8 @@
         "Deaths": 0,
         "Recovered": 1,
         "Latitude": "42.9849",
-        "Longitude": "-81.2453"
+        "Longitude": "-81.2453",
+        "Active": 0
       }
     ]
   },
@@ -1322,7 +1473,8 @@
     "stats": {
       "Confirmed": 37,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 31
     },
     "data": [
       {
@@ -1333,7 +1485,8 @@
         "Deaths": 0,
         "Recovered": 2,
         "Latitude": "43.6532",
-        "Longitude": "-79.3832"
+        "Longitude": "-79.3832",
+        "Active": 19
       },
       {
         "Province/State": "British Columbia",
@@ -1343,7 +1496,8 @@
         "Deaths": 0,
         "Recovered": 3,
         "Latitude": "49.2827",
-        "Longitude": "-123.1207"
+        "Longitude": "-123.1207",
+        "Active": 10
       },
       {
         "Province/State": " Montreal, QC",
@@ -1353,7 +1507,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "45.5017",
-        "Longitude": "-73.5673"
+        "Longitude": "-73.5673",
+        "Active": 2
       },
       {
         "Province/State": "London, ON",
@@ -1363,7 +1518,8 @@
         "Deaths": 0,
         "Recovered": 1,
         "Latitude": "42.9849",
-        "Longitude": "-81.2453"
+        "Longitude": "-81.2453",
+        "Active": 0
       }
     ]
   },
@@ -1372,7 +1528,8 @@
     "stats": {
       "Confirmed": 49,
       "Deaths": 0,
-      "Recovered": 6
+      "Recovered": 6,
+      "Active": 43
     },
     "data": [
       {
@@ -1383,7 +1540,8 @@
         "Deaths": 0,
         "Recovered": 2,
         "Latitude": "43.6532",
-        "Longitude": "-79.3832"
+        "Longitude": "-79.3832",
+        "Active": 22
       },
       {
         "Province/State": "British Columbia",
@@ -1393,7 +1551,8 @@
         "Deaths": 0,
         "Recovered": 3,
         "Latitude": "49.2827",
-        "Longitude": "-123.1207"
+        "Longitude": "-123.1207",
+        "Active": 18
       },
       {
         "Province/State": " Montreal, QC",
@@ -1403,7 +1562,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "45.5017",
-        "Longitude": "-73.5673"
+        "Longitude": "-73.5673",
+        "Active": 2
       },
       {
         "Province/State": "Calgary, Alberta",
@@ -1413,7 +1573,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "51.0447",
-        "Longitude": "-114.0719"
+        "Longitude": "-114.0719",
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1423,7 +1584,8 @@
         "Deaths": 0,
         "Recovered": 1,
         "Latitude": "42.9849",
-        "Longitude": "-81.2453"
+        "Longitude": "-81.2453",
+        "Active": 0
       }
     ]
   },
@@ -1432,7 +1594,8 @@
     "stats": {
       "Confirmed": 54,
       "Deaths": 0,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 46
     },
     "data": [
       {
@@ -1443,7 +1606,8 @@
         "Deaths": 0,
         "Recovered": 3,
         "Latitude": "43.6532",
-        "Longitude": "-79.3832"
+        "Longitude": "-79.3832",
+        "Active": 24
       },
       {
         "Province/State": "British Columbia",
@@ -1453,7 +1617,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "49.2827",
-        "Longitude": "-123.1207"
+        "Longitude": "-123.1207",
+        "Active": 17
       },
       {
         "Province/State": " Montreal, QC",
@@ -1463,7 +1628,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "45.5017",
-        "Longitude": "-73.5673"
+        "Longitude": "-73.5673",
+        "Active": 3
       },
       {
         "Province/State": "Calgary, Alberta",
@@ -1473,7 +1639,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "51.0447",
-        "Longitude": "-114.0719"
+        "Longitude": "-114.0719",
+        "Active": 1
       },
       {
         "Province/State": "Edmonton, Alberta",
@@ -1483,7 +1650,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.5461",
-        "Longitude": "-113.4938"
+        "Longitude": "-113.4938",
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1493,7 +1661,8 @@
         "Deaths": 0,
         "Recovered": 1,
         "Latitude": "42.9849",
-        "Longitude": "-81.2453"
+        "Longitude": "-81.2453",
+        "Active": 0
       }
     ]
   },
@@ -1502,7 +1671,8 @@
     "stats": {
       "Confirmed": 64,
       "Deaths": 0,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 56
     },
     "data": [
       {
@@ -1513,7 +1683,8 @@
         "Deaths": 0,
         "Recovered": 3,
         "Latitude": "43.6532",
-        "Longitude": "-79.3832"
+        "Longitude": "-79.3832",
+        "Active": 25
       },
       {
         "Province/State": "British Columbia",
@@ -1523,7 +1694,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "49.2827",
-        "Longitude": "-123.1207"
+        "Longitude": "-123.1207",
+        "Active": 23
       },
       {
         "Province/State": " Montreal, QC",
@@ -1533,7 +1705,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "45.5017",
-        "Longitude": "-73.5673"
+        "Longitude": "-73.5673",
+        "Active": 4
       },
       {
         "Province/State": "Edmonton, Alberta",
@@ -1543,7 +1716,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.5461",
-        "Longitude": "-113.4938"
+        "Longitude": "-113.4938",
+        "Active": 3
       },
       {
         "Province/State": "Calgary, Alberta",
@@ -1553,7 +1727,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "51.0447",
-        "Longitude": "-114.0719"
+        "Longitude": "-114.0719",
+        "Active": 1
       },
       {
         "Province/State": "London, ON",
@@ -1563,7 +1738,8 @@
         "Deaths": 0,
         "Recovered": 1,
         "Latitude": "42.9849",
-        "Longitude": "-81.2453"
+        "Longitude": "-81.2453",
+        "Active": 0
       }
     ]
   },
@@ -1572,7 +1748,8 @@
     "stats": {
       "Confirmed": 76,
       "Deaths": 1,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 67
     },
     "data": [
       {
@@ -1583,7 +1760,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "51.2538",
-        "Longitude": "-85.3232"
+        "Longitude": "-85.3232",
+        "Active": 30
       },
       {
         "Province/State": "British Columbia",
@@ -1593,7 +1771,8 @@
         "Deaths": 1,
         "Recovered": 4,
         "Latitude": "53.7267",
-        "Longitude": "-127.6476"
+        "Longitude": "-127.6476",
+        "Active": 27
       },
       {
         "Province/State": "Alberta",
@@ -1603,7 +1782,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.9333",
-        "Longitude": "-116.5765"
+        "Longitude": "-116.5765",
+        "Active": 7
       },
       {
         "Province/State": "Quebec",
@@ -1613,7 +1793,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-73.5491"
+        "Longitude": "-73.5491",
+        "Active": 3
       }
     ]
   },
@@ -1622,7 +1803,8 @@
     "stats": {
       "Confirmed": 79,
       "Deaths": 1,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 70
     },
     "data": [
       {
@@ -1633,7 +1815,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "51.2538",
-        "Longitude": "-85.3232"
+        "Longitude": "-85.3232",
+        "Active": 32
       },
       {
         "Province/State": "British Columbia",
@@ -1643,7 +1826,8 @@
         "Deaths": 1,
         "Recovered": 4,
         "Latitude": "53.7267",
-        "Longitude": "-127.6476"
+        "Longitude": "-127.6476",
+        "Active": 27
       },
       {
         "Province/State": "Alberta",
@@ -1653,7 +1837,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.9333",
-        "Longitude": "-116.5765"
+        "Longitude": "-116.5765",
+        "Active": 7
       },
       {
         "Province/State": "Quebec",
@@ -1663,7 +1848,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-73.5491"
+        "Longitude": "-73.5491",
+        "Active": 4
       }
     ]
   },
@@ -1672,7 +1858,8 @@
     "stats": {
       "Confirmed": 108,
       "Deaths": 1,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 99
     },
     "data": [
       {
@@ -1683,7 +1870,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "51.2538",
-        "Longitude": "-85.3232"
+        "Longitude": "-85.3232",
+        "Active": 37
       },
       {
         "Province/State": "British Columbia",
@@ -1693,7 +1881,8 @@
         "Deaths": 1,
         "Recovered": 4,
         "Latitude": "53.7267",
-        "Longitude": "-127.6476"
+        "Longitude": "-127.6476",
+        "Active": 34
       },
       {
         "Province/State": "Alberta",
@@ -1703,7 +1892,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.9333",
-        "Longitude": "-116.5765"
+        "Longitude": "-116.5765",
+        "Active": 19
       },
       {
         "Province/State": "Quebec",
@@ -1713,7 +1903,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-73.5491"
+        "Longitude": "-73.5491",
+        "Active": 8
       },
       {
         "Province/State": "New Brunswick",
@@ -1723,7 +1914,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "46.5653",
-        "Longitude": "-66.4619"
+        "Longitude": "-66.4619",
+        "Active": 1
       }
     ]
   },
@@ -1732,7 +1924,8 @@
     "stats": {
       "Confirmed": 117,
       "Deaths": 1,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 108
     },
     "data": [
       {
@@ -1743,7 +1936,8 @@
         "Deaths": 1,
         "Recovered": 4,
         "Latitude": "53.7267",
-        "Longitude": "-127.6476"
+        "Longitude": "-127.6476",
+        "Active": 41
       },
       {
         "Province/State": "Ontario",
@@ -1753,7 +1947,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "51.2538",
-        "Longitude": "-85.3232"
+        "Longitude": "-85.3232",
+        "Active": 38
       },
       {
         "Province/State": "Alberta",
@@ -1763,7 +1958,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.9333",
-        "Longitude": "-116.5765"
+        "Longitude": "-116.5765",
+        "Active": 19
       },
       {
         "Province/State": "Quebec",
@@ -1773,7 +1969,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-73.5491"
+        "Longitude": "-73.5491",
+        "Active": 9
       },
       {
         "Province/State": "New Brunswick",
@@ -1783,7 +1980,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "46.5653",
-        "Longitude": "-66.4619"
+        "Longitude": "-66.4619",
+        "Active": 1
       }
     ]
   },
@@ -1792,7 +1990,8 @@
     "stats": {
       "Confirmed": 193,
       "Deaths": 1,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 184
     },
     "data": [
       {
@@ -1803,7 +2002,8 @@
         "Deaths": 1,
         "Recovered": 4,
         "Latitude": "53.7267",
-        "Longitude": "-127.6476"
+        "Longitude": "-127.6476",
+        "Active": 59
       },
       {
         "Province/State": "Ontario",
@@ -1813,7 +2013,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "51.2538",
-        "Longitude": "-85.3232"
+        "Longitude": "-85.3232",
+        "Active": 70
       },
       {
         "Province/State": "New Brunswick",
@@ -1823,7 +2024,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "46.5653",
-        "Longitude": "-66.4619"
+        "Longitude": "-66.4619",
+        "Active": 1
       },
       {
         "Province/State": "Quebec",
@@ -1833,7 +2035,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-73.5491"
+        "Longitude": "-73.5491",
+        "Active": 17
       },
       {
         "Province/State": "Manitoba",
@@ -1843,7 +2046,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.7609",
-        "Longitude": "-98.8139"
+        "Longitude": "-98.8139",
+        "Active": 4
       },
       {
         "Province/State": "Saskatchewan",
@@ -1853,7 +2057,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-106.4509"
+        "Longitude": "-106.4509",
+        "Active": 2
       },
       {
         "Province/State": "Grand Princess",
@@ -1863,7 +2068,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "37.6489",
-        "Longitude": "-122.6655"
+        "Longitude": "-122.6655",
+        "Active": 2
       },
       {
         "Province/State": "Alberta",
@@ -1873,7 +2079,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.9333",
-        "Longitude": "-116.5765"
+        "Longitude": "-116.5765",
+        "Active": 29
       }
     ]
   },
@@ -1882,7 +2089,8 @@
     "stats": {
       "Confirmed": 196,
       "Deaths": 1,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 187
     },
     "data": [
       {
@@ -1893,7 +2101,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "51.2538",
-        "Longitude": "-85.3232"
+        "Longitude": "-85.3232",
+        "Active": 75
       },
       {
         "Province/State": "British Columbia",
@@ -1903,7 +2112,8 @@
         "Deaths": 1,
         "Recovered": 4,
         "Latitude": "53.7267",
-        "Longitude": "-127.6476"
+        "Longitude": "-127.6476",
+        "Active": 59
       },
       {
         "Province/State": "Alberta",
@@ -1913,7 +2123,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.9333",
-        "Longitude": "-116.5765"
+        "Longitude": "-116.5765",
+        "Active": 29
       },
       {
         "Province/State": "Quebec",
@@ -1923,7 +2134,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-73.5491"
+        "Longitude": "-73.5491",
+        "Active": 17
       },
       {
         "Province/State": "Manitoba",
@@ -1933,7 +2145,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.7609",
-        "Longitude": "-98.8139"
+        "Longitude": "-98.8139",
+        "Active": 4
       },
       {
         "Province/State": "Saskatchewan",
@@ -1943,7 +2156,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-106.4509"
+        "Longitude": "-106.4509",
+        "Active": 2
       },
       {
         "Province/State": "New Brunswick",
@@ -1953,7 +2167,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "46.5653",
-        "Longitude": "-66.4619"
+        "Longitude": "-66.4619",
+        "Active": 1
       }
     ]
   },
@@ -1962,7 +2177,8 @@
     "stats": {
       "Confirmed": 250,
       "Deaths": 1,
-      "Recovered": 8
+      "Recovered": 8,
+      "Active": 241
     },
     "data": [
       {
@@ -1973,7 +2189,8 @@
         "Deaths": 0,
         "Recovered": 4,
         "Latitude": "51.2538",
-        "Longitude": "-85.3232"
+        "Longitude": "-85.3232",
+        "Active": 100
       },
       {
         "Province/State": "British Columbia",
@@ -1983,7 +2200,8 @@
         "Deaths": 1,
         "Recovered": 4,
         "Latitude": "53.7267",
-        "Longitude": "-127.6476"
+        "Longitude": "-127.6476",
+        "Active": 68
       },
       {
         "Province/State": "Alberta",
@@ -1993,7 +2211,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.9333",
-        "Longitude": "-116.5765"
+        "Longitude": "-116.5765",
+        "Active": 39
       },
       {
         "Province/State": "Quebec",
@@ -2003,7 +2222,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-73.5491"
+        "Longitude": "-73.5491",
+        "Active": 24
       },
       {
         "Province/State": "Manitoba",
@@ -2013,7 +2233,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.7609",
-        "Longitude": "-98.8139"
+        "Longitude": "-98.8139",
+        "Active": 4
       },
       {
         "Province/State": "New Brunswick",
@@ -2023,7 +2244,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "46.5653",
-        "Longitude": "-66.4619"
+        "Longitude": "-66.4619",
+        "Active": 2
       },
       {
         "Province/State": "Saskatchewan",
@@ -2033,7 +2255,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "52.9399",
-        "Longitude": "-106.4509"
+        "Longitude": "-106.4509",
+        "Active": 2
       },
       {
         "Province/State": "Newfoundland and Labrador",
@@ -2043,7 +2266,8 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "53.1355",
-        "Longitude": "-57.6604"
+        "Longitude": "-57.6604",
+        "Active": 1
       },
       {
         "Province/State": "Prince Edward Island",
@@ -2053,7 +2277,272 @@
         "Deaths": 0,
         "Recovered": 0,
         "Latitude": "46.5107",
-        "Longitude": "-63.4168"
+        "Longitude": "-63.4168",
+        "Active": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-03-16",
+    "stats": {
+      "Confirmed": 415,
+      "Deaths": 4,
+      "Recovered": 9,
+      "Active": 402
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T16:13:26",
+        "Confirmed": 177,
+        "Deaths": 0,
+        "Recovered": 5,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232",
+        "Active": 172
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T19:13:13",
+        "Confirmed": 103,
+        "Deaths": 4,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476",
+        "Active": 95
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T02:33:09",
+        "Confirmed": 56,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765",
+        "Active": 56
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T20:13:20",
+        "Confirmed": 50,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491",
+        "Active": 50
+      },
+      {
+        "Province/State": "Manitoba",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T02:53:12",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.7609",
+        "Longitude": "-98.8139",
+        "Active": 7
+      },
+      {
+        "Province/State": "Saskatchewan",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T20:13:20",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-106.4509",
+        "Active": 7
+      },
+      {
+        "Province/State": "New Brunswick",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T02:53:12",
+        "Confirmed": 6,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5653",
+        "Longitude": "-66.4619",
+        "Active": 6
+      },
+      {
+        "Province/State": "Nova Scotia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T17:53:03",
+        "Confirmed": 5,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "44.6820",
+        "Longitude": "-63.7443",
+        "Active": 5
+      },
+      {
+        "Province/State": "Grand Princess",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T00:22:11",
+        "Confirmed": 2,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "37.6489",
+        "Longitude": "-122.6655",
+        "Active": 2
+      },
+      {
+        "Province/State": "Newfoundland and Labrador",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T02:13:21",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.1355",
+        "Longitude": "-57.6604",
+        "Active": 1
+      },
+      {
+        "Province/State": "Prince Edward Island",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T02:13:21",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5107",
+        "Longitude": "-63.4168",
+        "Active": 1
+      }
+    ]
+  },
+  {
+    "date": "2020-03-17",
+    "stats": {
+      "Confirmed": 478,
+      "Deaths": 5,
+      "Recovered": 9,
+      "Active": 464
+    },
+    "data": [
+      {
+        "Province/State": "Ontario",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-17T16:53:04",
+        "Confirmed": 185,
+        "Deaths": 1,
+        "Recovered": 5,
+        "Latitude": "51.2538",
+        "Longitude": "-85.3232",
+        "Active": 179
+      },
+      {
+        "Province/State": "British Columbia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T19:13:13",
+        "Confirmed": 103,
+        "Deaths": 4,
+        "Recovered": 4,
+        "Latitude": "53.7267",
+        "Longitude": "-127.6476",
+        "Active": 95
+      },
+      {
+        "Province/State": "Alberta",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-17T03:13:18",
+        "Confirmed": 74,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.9333",
+        "Longitude": "-116.5765",
+        "Active": 74
+      },
+      {
+        "Province/State": "Quebec",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-17T19:33:03",
+        "Confirmed": 74,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-73.5491",
+        "Active": 74
+      },
+      {
+        "Province/State": "Grand Princess",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-17T03:13:18",
+        "Confirmed": 8,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "37.6489",
+        "Longitude": "-122.6655",
+        "Active": 8
+      },
+      {
+        "Province/State": "Manitoba",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-17T19:33:03",
+        "Confirmed": 8,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.7609",
+        "Longitude": "-98.8139",
+        "Active": 8
+      },
+      {
+        "Province/State": "New Brunswick",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-17T19:33:03",
+        "Confirmed": 8,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5653",
+        "Longitude": "-66.4619",
+        "Active": 8
+      },
+      {
+        "Province/State": "Nova Scotia",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-17T19:33:03",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "44.6820",
+        "Longitude": "-63.7443",
+        "Active": 7
+      },
+      {
+        "Province/State": "Saskatchewan",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-16T20:13:20",
+        "Confirmed": 7,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "52.9399",
+        "Longitude": "-106.4509",
+        "Active": 7
+      },
+      {
+        "Province/State": "Newfoundland and Labrador",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-17T17:53:03",
+        "Confirmed": 3,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "53.1355",
+        "Longitude": "-57.6604",
+        "Active": 3
+      },
+      {
+        "Province/State": "Prince Edward Island",
+        "Country/Region": "Canada",
+        "Last Update": "2020-03-15T02:13:21",
+        "Confirmed": 1,
+        "Deaths": 0,
+        "Recovered": 0,
+        "Latitude": "46.5107",
+        "Longitude": "-63.4168",
+        "Active": 1
       }
     ]
   }
